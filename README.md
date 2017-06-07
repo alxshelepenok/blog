@@ -3,7 +3,7 @@
 ## License
 The MIT license.
 
-Copyright (c) 2016 Alexandr Shelepenok [ashk.io](http://ashk.io)
+Copyright (c) 2016 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
