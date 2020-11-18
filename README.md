@@ -1,4 +1,4 @@
-# Blog
+# blog
 
 Source code of all the articles published on Medium.
 
